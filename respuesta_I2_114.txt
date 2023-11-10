@@ -4,4 +4,6 @@ Cortes Abril
 
 a- con el comando Fetch
 b- Alfa puede actualizar el fork si Gamma realizo Merge con el repositorio original creado por Beta.
+c- Gamma puede actualizar el fork si Alfa realizó merge con el repositorio original creado por Beta.
+d- Si, antes de realizar cambios deberia hacer fetch para obtener la ultima actualzacion del repo sobre el cual se realizo fork.
 
