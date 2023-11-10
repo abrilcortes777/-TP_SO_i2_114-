@@ -1,3 +1,7 @@
 Bilotta Agustina
 Cruz Andres
 Cortes Abril
+
+a- con el comando Fetch
+b- Alfa puede actualizar el fork si Gamma realizo Merge con el repositorio original creado por Beta.
+
