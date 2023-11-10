@@ -7,3 +7,62 @@ b- Alfa puede actualizar el fork si Gamma realizo Merge con el repositorio origi
 c- Gamma puede actualizar el fork si Alfa realizó merge con el repositorio original creado por Beta.
 d- Si, antes de realizar cambios deberia hacer fetch para obtener la ultima actualzacion del repo sobre el cual se realizo fork.
 
+e- 
+Andres Cruz - Beta:
+-Creacion de repositrio en github con readme.
+-git clone 
+-touch fork.txt
+-git add fork.txt
+-git commit -m " "
+-git push origin master
+------------------------------
+Agustina Bilotta - Alfa:
+-Forkee
+-Hice git clone
+-Edite el archivo
+-git add .
+-git commit -m " "
+-git push origin 
+-Después merge desde github
+
+------------------------------
+Abril Cortes- Gamma:
+-Forkee
+-Git fetch
+-Hice git clone
+-Edite el archivo
+-git add .
+-git commit -m " "
+-git push origin 
+-Después merge desde github
+
+-----------------------------
+Andres Cortes - Beta:
+-git pull
+-touch Nuevo dato.txt
+-git add .
+-git commit -m " "
+-git push origin master
+
+------------------------------
+Abril Cortes - Gamma:
+-git pull
+-edite con el vi
+-git add .
+-git commit " "
+-git push origin 
+-merge desde github
+
+--------------------------------
+Agustina Bilotta - Alfa:
+-git remote add upstream
+-git checkout main
+-git fetch upstream
+-git merge upstream-main
+-modifico archivo
+- git add .
+-git commit -m "subir respuestas"
+-git push origin
+-merge
+
+
